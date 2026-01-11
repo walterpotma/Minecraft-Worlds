@@ -878,6 +878,7 @@
       "minecraft:spider": "2025-12-14 16:13:04 -0300",
       "minecraft:zombie": "2025-12-14 16:44:01 -0300",
       "minecraft:creeper": "2025-12-14 16:55:44 -0300",
+      "minecraft:zombie_villager": "2026-01-11 09:48:58 -0300",
       "minecraft:ghast": "2026-01-10 22:40:46 -0300"
     },
     "done": false
@@ -3442,6 +3443,24 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2026-01-10 22:53:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-01-11 09:59:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-11 10:17:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-11 10:17:31 -0300"
     },
     "done": true
   },
