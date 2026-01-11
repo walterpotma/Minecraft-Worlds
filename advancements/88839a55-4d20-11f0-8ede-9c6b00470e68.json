@@ -3157,21 +3157,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "crying_obsidian": "2026-01-10 22:39:28 -0300"
+      "has_gold_nugget": "2026-01-10 22:27:48 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/combat/magenta_harness": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+      "has_gold_nugget": "2026-01-10 22:27:48 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_gold_block": "2026-01-10 22:41:25 -0300"
+      "has_netherrack": "2026-01-10 22:27:55 -0300"
     },
     "done": true
   },
@@ -3181,27 +3181,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/yellow_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2026-01-10 22:27:48 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2026-01-10 22:27:48 -0300"
     },
     "done": true
   },
@@ -3217,51 +3199,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2026-01-10 22:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
     },
     "done": true
   },
@@ -3271,51 +3211,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-01-10 22:39:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/black_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
     },
     "done": true
   },
@@ -3337,39 +3235,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2026-01-10 22:37:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/pink_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2026-01-10 22:39:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/orange_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2026-01-10 22:53:02 -0300"
     },
     "done": true
   },
@@ -3379,27 +3247,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/light_blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2026-01-10 22:41:38 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-10 22:37:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-10 22:37:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-10 22:37:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2026-01-10 22:37:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-10 22:39:13 -0300"
     },
     "done": true
   },
@@ -3415,12 +3361,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-10 22:37:20 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/lime_harness": {
     "criteria": {
       "has_dried_ghast": "2026-01-10 22:39:13 -0300"
@@ -3433,15 +3373,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_netherrack": "2026-01-10 22:27:55 -0300"
+      "crying_obsidian": "2026-01-10 22:39:28 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_blackstone": "2026-01-10 22:37:20 -0300"
+      "has_obsidian": "2026-01-10 22:39:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-01-10 22:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-01-10 22:41:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-01-10 22:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-01-10 22:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-01-10 22:53:02 -0300"
     },
     "done": true
   },
