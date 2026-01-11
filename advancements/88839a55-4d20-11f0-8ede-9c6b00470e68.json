@@ -7,15 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-12-16 22:58:25 -0300",
+      "minecraft:savanna_plateau": "2026-01-11 10:44:30 -0300",
       "minecraft:snowy_slopes": "2025-12-25 23:20:20 -0300",
       "minecraft:beach": "2025-12-16 22:45:27 -0300",
       "minecraft:forest": "2025-12-14 16:52:07 -0300",
-      "minecraft:deep_dark": "2025-12-16 22:17:45 -0300",
       "minecraft:sparse_jungle": "2025-12-16 23:02:25 -0300",
+      "minecraft:river": "2025-12-16 12:04:58 -0300",
+      "minecraft:old_growth_birch_forest": "2025-12-16 22:58:25 -0300",
+      "minecraft:deep_dark": "2025-12-16 22:17:45 -0300",
       "minecraft:cherry_grove": "2025-12-14 15:59:09 -0300",
       "minecraft:sunflower_plains": "2025-12-14 15:58:09 -0300",
-      "minecraft:river": "2025-12-16 12:04:58 -0300",
       "minecraft:savanna": "2025-12-14 17:15:02 -0300",
       "minecraft:plains": "2025-12-14 15:59:00 -0300",
       "minecraft:jagged_peaks": "2025-12-25 23:21:32 -0300"
@@ -1467,8 +1468,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2026-01-11 10:25:48 -0300",
       "minecraft:chicken": "2025-12-16 11:54:00 -0300",
-      "minecraft:wolf": "2025-12-16 14:33:47 -0300"
+      "minecraft:wolf": "2025-12-16 14:33:47 -0300",
+      "minecraft:sheep": "2026-01-11 10:25:44 -0300"
     },
     "done": false
   },
