@@ -3467,5 +3467,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-01-11 11:19:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-01-11 11:29:14 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
