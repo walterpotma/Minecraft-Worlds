@@ -2108,5 +2108,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-01-19 22:19:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-01-19 22:04:50 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
